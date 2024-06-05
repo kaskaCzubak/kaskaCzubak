@@ -16,7 +16,6 @@ With a strong foundation in process engineering and analytical thinking, I am pr
 Driven by ambition and a relentless pursuit of knowledge, I am known for my organizational skills and goal-oriented mindset. My dedication extends beyond professional endeavors, as I actively contribute to charitable causes in my spare time. Having traversed different corners of the globe, I embrace challenges with adaptability and thrive in environments that demand quick thinking and problem-solving.
 
 ### 💻My projects
-* Car Dealership Management System (REST API Implementation - _future project_)
-* Car Dealership Management System
+* Car Dealership Management System (REST API Implementation )
 * Mortgage Calculator
 
